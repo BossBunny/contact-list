@@ -1,0 +1,21 @@
+{
+  "generator-ngx-rocket": {
+    "version": "4.2.0",
+    "props": {
+      "location": "path",
+      "appName": "contact list",
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "bootstrap",
+      "auth": true,
+      "lazy": true,
+      "angulartics": true,
+      "analyticsProvider": "gtm",
+      "projectName": "contact-list",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  }
+}
