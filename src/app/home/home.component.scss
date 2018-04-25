@@ -7,3 +7,22 @@ q {
   font-size: 1.2rem;
   quotes: "« " " »";
 }
+.button {
+  background: url(https://i.rozetka.ua/h.5d5a7c/sprite.svg) no-repeat -901px -471px;
+  width: 27px;
+  height: 27px;
+}
+
+.button:hover {
+  background-position: -901px -500px;
+}
+
+.thumb-up {
+  background: url(https://i.rozetka.ua/h.5d5a7c/sprite.svg) no-repeat -548px -400px;;
+  width: 89px;
+  height: 82px;
+}
+
+.thumb-up:hover {
+  background-position: -548px -292px;
+}
